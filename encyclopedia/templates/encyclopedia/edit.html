@@ -1,0 +1,14 @@
+{% extends "encyclopedia/layout.html" %}
+
+{% block title %}
+    Create New Page
+{% endblock %}
+
+{% block body %}
+    <h1>Edit {{title}} Page:</h1>
+    <form action="{% url 'save_changes' %}">
+        <input type="text" name="title" value="{{title}}" required>
+        <input type="submit" value="save">
+        <textarea name="content" style="display: block; margin: 5px 0;">{{content|safe}}</textarea>
+    </form>
+{% endblock %}
