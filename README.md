@@ -5,6 +5,10 @@
 
 ## Django version
 - 3.2.7
+- 
+## preview:
+- [https://www.youtube.com/watch?v=kR5mTaYE9o8](https://www.youtube.com/watch?v=kR5mTaYE9o8)
+[!["link"](https://i.ytimg.com/vi/kR5mTaYE9o8/maxresdefault.jpg)](https://www.youtube.com/watch?v=kR5mTaYE9o8)
 
 ## Specifications:
 
@@ -32,9 +36,7 @@ Clicking on any of the entry names on the search results page should take the us
 - **Random Page**: Clicking “Random Page” in the sidebar should take user to a random encyclopedia entry.
 Markdown to HTML Conversion: On each entry’s page, any Markdown content in the entry file should be converted to HTML before being displayed to the user. 
 
-## preview:
-- [https://www.youtube.com/watch?v=kR5mTaYE9o8](https://www.youtube.com/watch?v=kR5mTaYE9o8)
-[!["link"](https://i.ytimg.com/vi/kR5mTaYE9o8/maxresdefault.jpg)](https://www.youtube.com/watch?v=kR5mTaYE9o8)
+
 
 
 
