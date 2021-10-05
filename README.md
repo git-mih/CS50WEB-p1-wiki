@@ -1,6 +1,6 @@
 # CS50WEB | PROJECT 1: WIKI
 
-- Design a Wikipedia-like online encyclopedia.
+- A Wikipedia-like online encyclopedia that can store entries as Markdown (.md) file format.
 
 ## Django version
 - 3.2.7
